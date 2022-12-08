@@ -1,0 +1,79 @@
+---
+title: "Apprendre R et Python dans un seul cours : cours 0, le syllabus - Learn R and Python in one course : course 0, the syllabus"
+author: "Sam-Djose"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Présentation du syllabus
+
+### Présentation de R et Python
+
+##### Qu'est ce que R ?
+##### A quoi sert ce logiciel ?
+
+##### Qu'est ce que Python ?
+##### A quoi sert ce logiciel ?
+
+##### R VS Python
+
+### cours 1 :  Installations
+
+### Cours 2 : A la decouvert sommaire de chaque logiciel et des environnements de travail
+
+### Cours 3 : Les opérateurs et types de données 
+
+### Cours 4 : Utilisation des conditions
+
+### Cours 5 : Les boucles 
+
+### Cours 6 : Ecriture et utilisation des fonctions avec R et Python
+
+### Cours 7 : La gestion des exceptions avec R et python
+
+### Cours 8 : Parlons de la programmation orientée objet !
+
+### Cours 9 : Les packages et bibliothèques avec R et python
+
+### Cours 10 : Un peu de mathématiques et les statistiques avec R et python ?!
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+## Presentation of the syllabus
+
+### Presentation of R and Python
+
+##### What is R ?
+##### What is this software used for ?
+
+##### What is python ?
+##### What is this software used for ?
+
+##### R VS Python : advantages and disadvantages
+
+### cours 1 :  Installation and setup
+
+### Cours 2 : To the discovery of each software, IDEs and code editors
+
+### Cours 3 : Operators and data types
+
+### Cours 4 : Use of conditions
+
+### Cours 5 : The loops 
+
+### Cours 6 : Writing and using functions with R and Python
+
+### Cours 7 : Exception handling
+
+### Cours 8 : Let's talk about object-oriented programming !
+
+### Cours 9 : Packages and libraries
+
+### Cours 10 : What about mathematics and statistics with R and python !?
+
+
+
+
+
